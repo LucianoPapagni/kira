@@ -1,0 +1,302 @@
+[
+    {
+        "id": "anillo-01",
+        "titulo": "Anillo luna con estrella",
+        "imagen": "./img/anillos/Anillo luna con estrella.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 825
+    },
+    {
+        "id": "anillo-02",
+        "titulo": "Anillo mano de fatima",
+        "imagen": "./img/anillos/Anillo mano de fatima.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 825
+    },
+    {
+        "id": "anillo-03",
+        "titulo": "Anillo mariposa",
+        "imagen": "./img/anillos/Anillo mariposa.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 825
+    },
+    {
+        "id": "anillo-04",
+        "titulo": "Anillo nudo de brujas",
+        "imagen": "./img/anillos/Nudo de brujas.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 825
+    },
+    {
+        "id": "anillo-05",
+        "titulo": "Anillo onda",
+        "imagen": "./img/anillos/anillo onda.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 375
+    },
+    {
+        "id": "anillo-06",
+        "titulo": "Cintillo con cubic",
+        "imagen": "./img/anillos/cintillo con cubic.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 775
+    },
+    {
+        "id": "anillo-07",
+        "titulo": "anillo aixa",
+        "imagen": "./img/anillos/anillo aixa.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "anillo-08",
+        "titulo": "Anillo bulgari",
+        "imagen": "./img/anillos/anillo bulgari.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 975
+    },
+    {
+        "id": "anillo-09",
+        "titulo": "Alianza fina con strass",
+        "imagen": "./img/anillos/anillo con strass.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 875
+    },
+    {
+        "id": "anillo-10",
+        "titulo": "Anillo calado con estrella",
+        "imagen": "./img/anillos/anillo calado grande.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 925
+    },
+    {
+        "id": "anillo-11",
+        "titulo": "Anillo corona",
+        "imagen": "./img/anillos/anillo corona.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 575
+    },
+    {
+        "id": "anillo-12",
+        "titulo": "Alianza con linea esmaltada",
+        "imagen": "./img/anillos/alianza con linea esmaltada.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 775
+    },
+    {
+        "id": "collar-01",
+        "titulo": "Collar cubic corazón",
+        "imagen": "./img/collares/collar cubic coraazon.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1850
+    },
+    {
+        "id": "collar-02",
+        "titulo": "Collar mariposa",
+        "imagen": "./img/collares/collar mariposa.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1750
+    },
+    {
+        "id": "collar-03",
+        "titulo": "Collar con cristal tornasol",
+        "imagen": "./img/collares/collar cristal tornasol.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1475
+    },
+    {
+        "id": "collar-04",
+        "titulo": "Cadena cubana",
+        "imagen": "./img/collares/CADENA CUBANA COMBINADA.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1475
+    },
+    {
+        "id": "collar-05",
+        "titulo": "Cadena colita de rata con bolitas",
+        "imagen": "./img/collares/CADENA COLITA DE RATA.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 2725
+    },
+    {
+        "id": "collar-06",
+        "titulo": "Cadena tourbillon",
+        "imagen": "./img/collares/CADENA TOURBILLON.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1625
+    },
+    {
+        "id": "argolla-01",
+        "titulo": "Argolla bisagra",
+        "imagen": "./img/argollas/ARGOLLA BISAGRA.jpg",
+        "categoria": {
+            "nombre": "Argollas",
+            "id": "argollas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "argolla-02",
+        "titulo": "Argolla torzada",
+        "imagen": "./img/argollas/ARGOLLA TORZADA.jpg",
+        "categoria": {
+            "nombre": "Argollas",
+            "id": "argollas"
+        },
+        "precio": 1225
+    },
+    {
+        "id": "argolla-03",
+        "titulo": "Argolla maciza",
+        "imagen": "./img/argollas/ARGOLLA MACIZA.jpg",
+        "categoria": {
+            "nombre": "Argollas",
+            "id": "argollas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "argolla-04",
+        "titulo": "Argolla cubana",
+        "imagen": "./img/argollas/ARGOLLA CUBANA.jpg",
+        "categoria": {
+            "nombre": "Argollas",
+            "id": "argollas"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "dije-01",
+        "titulo": "Dije Colibri",
+        "imagen": "./img/dijes/DIJE COLIBRI.jpg",
+        "categoria": {
+            "nombre": "Dijes",
+            "id": "dijes"
+        },
+        "precio": 575
+    },
+    {
+        "id": "dije-02",
+        "titulo": "Dije de piedra corazon howlita",
+        "imagen": "./img/dijes/DIJE DE CORAZON HOWLITA.jpg",
+        "categoria": {
+            "nombre": "Dijes",
+            "id": "dijes"
+        },
+        "precio": 1650
+    },
+    {
+        "id": "dije-03",
+        "titulo": "Dije de cristal estrella",
+        "imagen": "./img/dijes/dije estrella.jpg",
+        "categoria": {
+            "nombre": "Dijes",
+            "id": "dijes"
+        },
+        "precio": 925
+    },
+    {
+        "id": "pulsera-01",
+        "titulo": "Pulsera esclava",
+        "imagen": "./img/pulseras/PULSERA ESCLAVA.jpg",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 1525
+    },
+    {
+        "id": "pulsera-02",
+        "titulo": "Pulsera tiffany con bolitas y dijes",
+        "imagen": "./img/pulseras/PULSERA TIFFANY CON BOLITAS Y DIJES.jpg",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 2825
+    },
+    {
+        "id": "pulsera-03",
+        "titulo": "Pulsera full bolitas",
+        "imagen": "./img/pulseras/PULSERA FULL BOLITA.jpg",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pulsera-04",
+        "titulo": "Pulsera rolo",
+        "imagen": "./img/pulseras/PULSERA ROLO.jpg",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 1175
+    },
+    {
+        "id": "pulsera-05",
+        "titulo": "Pulsera tourbillon",
+        "imagen": "./img/pulseras/PULSERA TOURBILLON.jpg",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 1350
+    }
+]
