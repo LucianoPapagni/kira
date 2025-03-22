@@ -52,8 +52,14 @@ aside {
 }
 
 .logo {
-    font-weight: 400;
+    font-weight: 100;
+    width: 70px;
     font-size: 1.3rem;
+    color: aqua;
+}
+
+.kiraLogo {
+    color: #000000;
 }
 
 .menu {
@@ -342,6 +348,16 @@ main {
         opacity: 0;
         visibility: hidden;
         transition: .2s;
+    }
+    .logo {
+        font-weight: 100;
+        width: 70px;
+        font-size: .80rem;
+        color: aqua;
+    }
+    
+    .kiraLogo {
+        color: #000000;
     }
 
     .aside-visible {
