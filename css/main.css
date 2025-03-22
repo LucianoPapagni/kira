@@ -55,12 +55,16 @@ aside {
     font-weight: 100;
     width: 70px;
     font-size: 1.3rem;
-    color: aqua;
+
 }
 
 .kiraLogo {
     color: #000000;
-}
+    border: 0;
+    background-color: transparent;
+    font-size: 1.3rem;
+    cursor: pointer;
+    }
 
 .menu {
     display: flex;
@@ -352,13 +356,17 @@ main {
     .logo {
         font-weight: 100;
         width: 70px;
-        font-size: .80rem;
-        color: aqua;
+        font-size: 1.3rem;
+    
     }
     
     .kiraLogo {
         color: #000000;
-    }
+        border: 0;
+        background-color: transparent;
+        font-size: 1.3rem;
+        cursor: pointer;
+        }
 
     .aside-visible {
         transform: translateX(0);
