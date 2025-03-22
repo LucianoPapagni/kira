@@ -2,7 +2,7 @@
     {
         "id": "anillo-01",
         "titulo": "Anillo luna con estrella",
-        "imagen": "./img/anillos/anillo luna con estrella.jpg",
+        "imagen": "./img/anillos/Anillo luna con estrella.jpg",
         "categoria": {
             "nombre": "Anillos",
             "id": "anillos"
@@ -12,7 +12,7 @@
     {
         "id": "anillo-02",
         "titulo": "Anillo mano de fatima",
-        "imagen": "./img/anillos/anillo mano de fatima.jpg",
+        "imagen": "./img/anillos/Anillo mano de fatima.jpg",
         "categoria": {
             "nombre": "Anillos",
             "id": "anillos"
